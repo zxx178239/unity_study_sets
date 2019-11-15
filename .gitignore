@@ -6,3 +6,11 @@ gameobject_rotation_scale_through_finger/Temp
 gameobject_rotation_scale_through_finger/gameobject_rotation_scale_through_finger.sln
 gameobject_rotation_scale_through_finger/Assembly-CSharp.csproj
 gameobject_rotation_scale_through_finger/.vs
+
+joystick_plane/Assembly-CSharp.csproj
+joystick_plane/joystick_plane.sln
+joystick_plane/Library
+joystick_plane/Logs
+joystick_plane/obj
+joystick_plane/Temp
+joystick_plane/.vs
