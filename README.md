@@ -15,3 +15,8 @@ joystick_plane
 arkit_unity_场景文件解析 (针对的是arkit_unity的demo)   
 旨在在该目录下对arkit_unity demo中的场景进行一一解析，然后再对ARKit的工作流进行分析学习，不保证正确性，自己也是学习者，纯粹自己记录笔记。   
 ARKitScene场景笔记：描述了该场景涉及到的几个关键类  
+
+
+-------------------------------------------  
+CaptainBlastor  
+一个简单的飞机、陨石碰撞2D游戏。  

@@ -25,3 +25,36 @@ landform/Assets/Standard Assets
 arkit_unity_场景文件解析/场景笔记空模版.docx
 
 unity学习笔记
+
+AmazingRacer/.vs
+AmazingRacer/Logs
+AmazingRacer/Library
+AmazingRacer/AmazingRacer.sln
+AmazingRacer/Assembly-CSharp-Editor-firstpass.csproj
+AmazingRacer/Assembly-CSharp-firstpass.csproj
+AmazingRacer/Assembly-CSharp.csproj
+AmazingRacer/Assets/Standard Assets
+
+ChaosBall/Library
+ChaosBall/Logs
+ChaosBall/Logs
+ChaosBall/Assets/Standard Assets
+ChaosBall/Assembly-CSharp.csproj
+ChaosBall/Assembly-CSharp-Editor-firstpass.csproj
+ChaosBall/Assembly-CSharp-firstpass.csproj
+ChaosBall/ChaosBall.sln
+ChaosBall/.vs
+
+CaptainBlastor/Library
+CaptainBlastor/Logs
+CaptainBlastor/obj
+CaptainBlastor/Temp
+CaptainBlastor/.vs
+CaptainBlastor/Assembly-CSharp.csproj
+CaptainBlastor/CaptainBlastor.sln
+
+ColliderTest/
+
+2d_game_project/
+
+InputTest/
